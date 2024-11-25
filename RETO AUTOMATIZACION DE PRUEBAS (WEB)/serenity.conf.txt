@@ -1,0 +1,12 @@
+webdriver {
+    driver = chrome
+}
+
+drivers {
+    chrome {
+        path = "C:/path/to/chromedriver"
+    }
+    firefox {
+        path = "C:/path/to/geckodriver"
+    }
+}
